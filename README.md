@@ -8,4 +8,5 @@ Youngjae와 함께하는 Git 교실
 
 
 
-- fast-forwar
+- fast-forward
+- 3-way other
