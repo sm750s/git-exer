@@ -12,3 +12,5 @@ Youngjae와 함께하는 Git 교실
 - 3-way other
 
 - rebase fast-forward
+
+- master - rebase merge
